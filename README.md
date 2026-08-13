@@ -1,17 +1,64 @@
-# TPrintPreview-for-Delphi
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">Project 👋</h1>
 
+<p align="center">
+  <strong></strong>
+</p>
 
-Print Preview Components 5.95 (Mar 10, 2021)
+<p align="center">
+  <a href="https://github.com/antono4/TPrintPreview-for-Delphi"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/TPrintPreview-for-Delphi-blue?logo=github"></a>
+  <a href="https://antono4.github.io/TPrintPreview-for-Delphi/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-57-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:18:17 WIB-lightgrey">
+</p>
 
-Import from http://www.delphiarea.com/products/delphi-components/preview/  
-Copyright Kambiz R. Khojasteh
+---
 
-Modifications Sven Harazim, Friedrich Westermann
+## 📖 Tentang
 
-LICENSE  
-The Print Preview components (TPrintPreview, TThumbnailPreview, and TPaperPreview) are freeware. You may copy components' files AS LONG AS YOU COPY ALL OF THEM. If you want to change the source code in order to improve the components' features, performance, etc. please send me the new source code so that I can have a look at it. The changed source code should contain descriptions what you have changed, and of course your name. The only thing you MAY NOT CHANGE is the ORIGINAL COPYRIGHT INFORMATION.
+Repository **`TPrintPreview-for-Delphi`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/TPrintPreview-for-Delphi/`](https://antono4.github.io/TPrintPreview-for-Delphi/).
 
-DISCLAIMER  
-The Print Preview components (TPrintPreview, TThumbnailPreview, and TPaperPreview) are provided "AS IS" without any warranty of any kind, either express or implied. The entire risk as to the quality and performance of the software is with you. The author is NOT liable for any DAMAGES resulting from the use and misuse of the components, especially he is NOT liable for DAMAGES that were caused BY ANY VERSION WHICH HAS NOT BEEN PROGRAMMED BY THE AUTHOR HIMSELF.
+## 🗂️ Struktur Proyek
+
+```
+TPrintPreview-for-Delphi/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+
+> Total **57 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/TPrintPreview-for-Delphi/](https://antono4.github.io/TPrintPreview-for-Delphi/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:18:17 WIB** oleh GitHub Actions .</sub>
