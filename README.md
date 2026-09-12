@@ -1,2 +1,26 @@
-Last updated: 2026-09-13 03:43:33 WIB
-Last updated: 2026-09-13 04:11:26 WIB
+# TPrintPreview-for-Delphi
+
+
+
+## 📋 Overview
+
+This repository contains **61 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 04:40:59 WIB*
