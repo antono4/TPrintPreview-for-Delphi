@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/TPrintPreview-for-Delphi"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/TPrintPreview-for-Delphi-blue?logo=github"></a>
   <a href="https://antono4.github.io/TPrintPreview-for-Delphi/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-61-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-17 22:38:55 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-63-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 03:32:40 WIB-lightgrey">
 </p>
 
 ---
@@ -35,7 +35,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 
 - `HTML`
 
-> Total **61 file** terdeteksi di repository.
+> Total **63 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -61,4 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-17 22:38:55 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-18 03:32:40 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
